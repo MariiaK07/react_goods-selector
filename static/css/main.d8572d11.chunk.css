@@ -1,0 +1,2 @@
+.App{max-width:600px;display:flex;flex-direction:column;margin:50px auto}.App__header{display:flex;align-items:center;margin:0 auto 16px}.App__header-title{margin:0;color:#008b8b}.App__goodsList{min-width:400px;margin:0 auto;padding-left:0}.App__goodsList-item{display:flex;justify-content:space-between;padding:8px 16px;margin:8px 0;border-radius:4px;list-style:none}.App__goodsList-item--added{background-color:#8cb3fc}.App__button{cursor:pointer}.App__button--clear{min-width:80px;margin-right:20px;height:40px}
+/*# sourceMappingURL=main.d8572d11.chunk.css.map */
